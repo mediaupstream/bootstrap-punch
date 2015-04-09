@@ -536,7 +536,7 @@
       <li data-target="#carousel-example-generic" data-slide-to="1"></li>
       <li data-target="#carousel-example-generic" data-slide-to="2"></li>
     </ol>
-    <div class="carousel-inner" role="listbox">
+    <div class="carousel-inner" role="listbox" style="padding:180px; text-align:center">
       <div class="item active">
         <img data-src="holder.js/1140x500/auto/#777:#555/text:First slide" alt="First slide">
       </div>
