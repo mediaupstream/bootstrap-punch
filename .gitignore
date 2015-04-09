@@ -1,0 +1,7 @@
+.DS_Store
+
+# Ignore generated output from the source code repository.
+public
+
+# Ignore npm package dependencies
+node_modules

@@ -1,0 +1,18 @@
+{
+  "meta":{
+    "title": "Bootstrap Punch",
+    "description": "Twitter Bootstrap boilerplate for Punch"
+  },
+	"navbar": [
+    { "label": "Home", "href": "/" },
+    { "label": "About", "href": "/about" },
+    { "label": "Contact", "href": "/contact" },
+    { "label": "Dropdown", "href": "", "dropdown": true, 
+      "children":[
+        { "label": "Action", "href": "#" },
+        { "label": "Another action", "href": "#" },
+        { "label": "Something else here", "href": "#" }
+      ]
+    }
+  ]
+}

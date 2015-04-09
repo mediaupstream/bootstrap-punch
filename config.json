@@ -1,0 +1,17 @@
+{
+	"template_dir": "templates", 
+	"content_dir": "contents",
+	"output_dir": "public",
+
+	"server": { 
+		"port": 9009
+	},
+
+	"bundles": {
+		"/css/all.min.css": [
+			"/css/bootstrap.min.css",	
+			"/css/bootstrap-theme.css",
+			"/css/main.less"
+		]	
+	}
+}
